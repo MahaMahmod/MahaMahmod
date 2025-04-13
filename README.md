@@ -1,16 +1,26 @@
-## Hi there 👋
+# Hello, I'm Maha 👋
 
-<!--
-**MahaMahmod/MahaMahmod** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a physics PhD student and qualified scientific programmer.  
+I use **Python** to simulate and visualize physical systems.
 
-Here are some ideas to get you started:
+- Physics Simulations
+- Scientific Computing
+- Educational Visualization Tools
+- Data Analysis & Plotting
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  ## 🛠️ Skills
+- Programming: Python, NumPy, matplotlib, pandas, SciPy
+- Tools: Jupyter Notebook, Git, GitHub
+- Concepts: ODEs, Simulations, Data Analysis, Scientific Visualization
+
+
+## 🚀 Featured Project
+
+🔬 [Physics Simulations Repository](https://github.com/MahaMahmod/physics-simulations)  
+> Solving physics problems using numerical methods in Python.
+
+## 📫 Let's Connect!
+
+- 💼 Available for remote freelance work and collaboration
+- 📧 Email: maha.physics2020@gmail.com
+-           
